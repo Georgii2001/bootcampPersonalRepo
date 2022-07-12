@@ -1,2 +1,1 @@
-# hello bootcampPersonalRepo
-Georgii
+# hello bootcampPersonalRepo, hello people
